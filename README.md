@@ -8,3 +8,4 @@ Rest API made with go
 ## Dependencies
 1. http -> github.com/projectdiscovery/httpx/cmd/httpx@latest
 2. mux -> go get -u github.com/gorilla/mux
+3. mongo-driver -> go get -u go.mongodb.org/mongo-driver
